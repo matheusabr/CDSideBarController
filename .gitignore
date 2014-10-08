@@ -1,0 +1,5 @@
+Build/*
+*.xcuserstate
+*.xcscheme
+
+CDSideBar.xcodeproj/xcuserdata/mabr.xcuserdatad/xcschemes/xcschememanagement.plist
